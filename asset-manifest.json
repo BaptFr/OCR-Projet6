@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-github-pages/static/css/main.b3312107.chunk.css",
+    "main.js": "/react-github-pages/static/js/main.15b95e73.chunk.js",
+    "main.js.map": "/react-github-pages/static/js/main.15b95e73.chunk.js.map",
+    "runtime-main.js": "/react-github-pages/static/js/runtime-main.777c759a.js",
+    "runtime-main.js.map": "/react-github-pages/static/js/runtime-main.777c759a.js.map",
+    "static/js/2.4819fb91.chunk.js": "/react-github-pages/static/js/2.4819fb91.chunk.js",
+    "static/js/2.4819fb91.chunk.js.map": "/react-github-pages/static/js/2.4819fb91.chunk.js.map",
+    "index.html": "/react-github-pages/index.html",
+    "precache-manifest.57635bf947f45a2c3a85897650de2cdb.js": "/react-github-pages/precache-manifest.57635bf947f45a2c3a85897650de2cdb.js",
+    "service-worker.js": "/react-github-pages/service-worker.js",
+    "static/css/main.b3312107.chunk.css.map": "/react-github-pages/static/css/main.b3312107.chunk.css.map",
+    "static/js/2.4819fb91.chunk.js.LICENSE.txt": "/react-github-pages/static/js/2.4819fb91.chunk.js.LICENSE.txt",
+    "static/media/about-banner-pic.jpg": "/react-github-pages/static/media/about-banner-pic.40349702.jpg",
+    "static/media/home-banner-pic.jpg": "/react-github-pages/static/media/home-banner-pic.6d416d00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.777c759a.js",
+    "static/js/2.4819fb91.chunk.js",
+    "static/css/main.b3312107.chunk.css",
+    "static/js/main.15b95e73.chunk.js"
+  ]
+}
